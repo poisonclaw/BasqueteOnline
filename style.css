@@ -3,12 +3,14 @@ font-style: italic;
 background-color: rgba(70, 32, 28, 0.582);
 border-style: groove;
 color: aliceblue;
-text-align: center;}
+text-align: center;
+margin-right: 20%;
+margin-left: 20%;}
 
 h1{font-size: 24px; text-align: center;}
 
 h2 {
     font-size: 26;border-style: double;
 }
-#NBAF {align-items: center; border-style: outset;border-width: 25px;
+#NBAF {align-items: center; border-style: outset;border-width: 15px;margin-left: 40%; margin-right: 30%;
 }
